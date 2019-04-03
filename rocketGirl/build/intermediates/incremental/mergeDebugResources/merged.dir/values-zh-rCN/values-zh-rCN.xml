@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Intro_text">跳过</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"使用<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="action_story_mode">动作震动模式</string>
+    <string name="app_name">Rocket Girl</string>
+    <string name="background_music">背景音</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_close">关闭</string>
+    <string name="btn_confirm">确定</string>
+    <string name="btn_download">下载</string>
+    <string name="btn_download_cancel">取消</string>
+    <string name="btn_download_continue">确定</string>
+    <string name="btn_download_now">立刻下载</string>
+    <string name="btn_ignore">否</string>
+    <string name="btn_later">以后再说</string>
+    <string name="btn_more_story">更多系列动画</string>
+    <string name="btn_move">是</string>
+    <string name="btn_next_video">下一个</string>
+    <string name="btn_play_all">连续播放</string>
+    <string name="btn_purchase">购买</string>
+    <string name="btn_replay">重看</string>
+    <string name="btn_try_again">重试</string>
+    <string name="com_facebook_image_download_unknown_error">下载图片时出现意外错误。</string>
+    <string name="com_facebook_internet_permission_error_message">Web 登录需要互联网许可</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest 错误</string>
+    <string name="com_facebook_like_button_liked">赞了</string>
+    <string name="com_facebook_like_button_not_liked">赞</string>
+    <string name="com_facebook_loading">正在加载...</string>
+    <string name="com_facebook_loginview_cancel_action">取消</string>
+    <string name="com_facebook_loginview_log_in_button">登录</string>
+    <string name="com_facebook_loginview_log_in_button_long">使用 Facebook 登录</string>
+    <string name="com_facebook_loginview_log_out_action">退出</string>
+    <string name="com_facebook_loginview_log_out_button">退出</string>
+    <string name="com_facebook_loginview_logged_in_as">已以%1$s 身份登录</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">已使用 Facebook 登录</string>
+    <string name="com_facebook_send_button_text">发送</string>
+    <string name="com_facebook_share_button_text">分享</string>
+    <string name="com_facebook_tooltip_default">新增功能！一切任您掌控 — 选择您想通过应用分享的信息。</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"启用"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"您必须先启用 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"启用 Google Play 服务"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"安装"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"您的设备没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"获取 Google Play 服务"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play 服务的适用范围"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play服务出错"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>无法访问 Google Play 服务，请重试。"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"您的设备不支持 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"您必须先更新 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"更新 Google Play 服务"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play 服务当前正在更新，因此您无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"必须使用新版 Google Play 服务。该服务很快就会自行更新。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"在手机上打开"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"登录"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"使用 Google 帐号登录"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"其他"</string>
+    <string name="force_update_check">有重要更新，为了正常使用应用，请进行更新。</string>
+    <string name="input_promotion">输入活动号码</string>
+    <string name="inquire_developer">联系开发者</string>
+    <string name="introduction_text">Rocket Girl 是一个看上去普通的8岁小女孩，名叫Roxy。具有超能力的Roxy需要一次又一次地面对坏人，守护城市。然而，Roxy 又需要对自己的朋友们保密自己的超人身份。Roxy 真的能够成功隐藏身份，拯救Metro City吗？</string>
+    <string name="lte_3g_relate_question">无法连接到WIFI，可能产生流量费用。确定要继续下载吗?</string>
+    <string name="mac_address_error">无法确定装置信息，无法实行应用。请删除该应用数据后重试。</string>
+    <string name="meesage_is_end">确定关闭应用吗？</string>
+    <string name="menu_star_give">给评价</string>
+    <string name="menu_writer">关于作者</string>
+    <string name="messenger_send_button_text">发送</string>
+    <string name="network_download_error">网络未连接，无法完成下载。</string>
+    <string name="network_error">网络未连接，请确认状态。</string>
+    <string name="other_app">其他类似应用</string>
+    <string name="paid_restore_fail">无购买记录。</string>
+    <string name="paid_restore_success">成功恢复已购买项目。</string>
+    <string name="parent_confirm">成人身份认证</string>
+    <string name="parent_not_correct_answer">答案错误</string>
+    <string name="product_already_paid">该项目已购买。</string>
+    <string name="product_buy_item_warning">购买完1篇动画后，以后对整个系列进行购买时，购买价格不会扣去已经购买的单篇动画价格，确认进行购买吗？</string>
+    <string name="product_download_all_item_message">整个系列动画购买完毕，开始下载吗？</string>
+    <string name="product_download_one_item_message">1篇动画购买完毕，开始下载吗？</string>
+    <string name="product_is_null">应用内付费未被许可，无法进行购买。</string>
+    <string name="promotion_already_used_error">号码已被使用。</string>
+    <string name="promotion_choice_item">请选择项目。</string>
+    <string name="promotion_code_error">号码错误，请再次输入。</string>
+    <string name="promotion_code_title">输入活动号码</string>
+    <string name="promotion_hint"/>
+    <string name="promotion_list_title">选择</string>
+    <string name="promotion_not_valid">号码已过期。</string>
+    <string name="promotion_used_go_download">活动号码已成功使用。</string>
+    <string name="recommand_main_title">推荐内容</string>
+    <string name="recommand_name_title">字母排序</string>
+    <string name="recommand_newest_title">更新排序</string>
+    <string name="recommand_popular_title">人气排序</string>
+    <string name="restore_purchase">找回已购买动画</string>
+    <string name="root_not_play">在Root过的装置上无法进行</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string name="select_update_check">应用有新版本，希望下载吗？</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_available_error">装置容量不足，无法完成下载。</string>
+    <string name="title_next_do">下次再分享</string>
+    <string name="title_star_give">马上去评分</string>
+    <string name="writer_info">布莱恩·朗多 (Bryan Langdo) 从2010年开始成为Little Fox的编辑之一。他还是一名儿童读物作家和插画家，曾经获得多次奖项。他喜欢创作出令人激动的人物和故事，并且赋予他们生命。不写故事的时候，他喜欢亲近自然。他住在美国，家中有妻子，两个孩子和一只猫。</string>
+    <string name="writer_text">作者</string>
+</resources>

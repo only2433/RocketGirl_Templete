@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Intro_text">Skip</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_story_mode">Action Story Mode</string>
+    <string name="app_name">Rocket Girl</string>
+    <string name="background_music">Background Music</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_confirm">OK</string>
+    <string name="btn_download">Download</string>
+    <string name="btn_download_cancel">No</string>
+    <string name="btn_download_continue">Yes</string>
+    <string name="btn_download_now">Download Now</string>
+    <string name="btn_ignore">No</string>
+    <string name="btn_later">Later</string>
+    <string name="btn_more_story">More Stories</string>
+    <string name="btn_move">Yes</string>
+    <string name="btn_next_video">Play Next</string>
+    <string name="btn_play_all">Play All</string>
+    <string name="btn_purchase">Purchase</string>
+    <string name="btn_replay">Replay</string>
+    <string name="btn_try_again">Try Again</string>
+    <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
+    <string name="com_facebook_internet_permission_error_message">El inicio de sesión a la web requiere permiso de conexión a internet</string>
+    <string name="com_facebook_internet_permission_error_title">Error AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Te gusta</string>
+    <string name="com_facebook_like_button_not_liked">Me gusta</string>
+    <string name="com_facebook_loading">Cargando…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancelar</string>
+    <string name="com_facebook_loginview_log_in_button">Inicio de sesión</string>
+    <string name="com_facebook_loginview_log_in_button_long">Iniciar sesión con Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Salir</string>
+    <string name="com_facebook_loginview_log_out_button">Salir</string>
+    <string name="com_facebook_loginview_logged_in_as">Sesión iniciada como: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Sesión iniciada con Facebook</string>
+    <string name="com_facebook_send_button_text">Enviar</string>
+    <string name="com_facebook_share_button_text">Compartir</string>
+    <string name="com_facebook_tooltip_default">¡Nuevo! Tú tienes el control: elige qué información quieres compartir con las aplicaciones.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Habilitar"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no habilites Servicios de Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Habilita Servicios de Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalar"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Descargar Servicios de Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Disponibilidad Servicios de Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Error de Servicios de Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"La aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas con los Servicios de Google Play. Vuelve a intentarlo."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"No es posible ejecutar la aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> sin los Servicios de Google Play, que no son compatibles con tu dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no actualices Servicios de Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Actualiza Servicios de Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Varias"</string>
+    <string name="force_update_check">We recommend that you use the latest version of app. If not, there may be problems during its use.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input_promotion">Enter Promo Code</string>
+    <string name="inquire_developer">Help</string>
+    <string name="introduction_text">‘Rocket Girl’ is about Roxy, an ordinary eight-year-old girl, who happens to possess superpowers. With her super strength, she saves the people and the city from aliens and villains. However, Roxy must hide her Rocket Girl identity from her friends. Will Roxy be able to keep her secret and protect Metro City?</string>
+    <string name="littlefox_home">Little Fox Homepage</string>
+    <string name="lte_3g_relate_question">Additional charges may apply because you are not connected to WIFI. Do you want to continue?</string>
+    <string name="mac_address_error">The app cannot run because device information is unavailable.  Run the app again after clearing your data.</string>
+    <string name="meesage_is_end">Are you sure you want to close the app?</string>
+    <string name="menu_star_give">Rate</string>
+    <string name="menu_writer">About the Author</string>
+    <string name="message_kakao_story_install">KakaoStory App is not installed on your device.\nPlease share after installing the app.</string>
+    <string name="messenger_send_button_text">Enviar</string>
+    <string name="network_download_error">Download cannot be completed because you are not connected to the cellular network.</string>
+    <string name="network_error">You are not connected to the network.\nPlease check your network connection. </string>
+    <string name="other_app">Other Little Fox Apps</string>
+    <string name="paid_restore_fail">You do not have any purchase history. </string>
+    <string name="paid_restore_success">Your purchases have been restored. </string>
+    <string name="parent_confirm">Parent Gate</string>
+    <string name="parent_not_correct_answer">The answer is incorrect.</string>
+    <string name="press_backbutton_again">Touch [Back] button again to close app.</string>
+    <string name="product_already_paid">This story has been purchased already.</string>
+    <string name="product_buy_item_warning">The price of this story will not be deducted from the total price if you decide to purchase all stories in the future. \nDo you want to continue?</string>
+    <string name="product_download_all_item_message">You have successfully purchased all stories. Do you want to download now?</string>
+    <string name="product_download_one_item_message">You have successfully purchased 1 story. Do you want to download now?</string>
+    <string name="product_is_null">Your purchase cannot be completed. In-app purchases are disabled on your device. </string>
+    <string name="promotion_already_used_error">The code has already been used.</string>
+    <string name="promotion_choice_item">Select the story you want to download.</string>
+    <string name="promotion_code_error">The code is invalid.Please check and try again.</string>
+    <string name="promotion_code_title">Promo Code</string>
+    <string name="promotion_hint"/>
+    <string name="promotion_list_title">Make Your Selection</string>
+    <string name="promotion_not_valid">The code has been expired.</string>
+    <string name="promotion_used_go_download">The code has been applied.</string>
+    <string name="recommand_main_title">Recommended for You</string>
+    <string name="recommand_name_title">by Name</string>
+    <string name="recommand_newest_title">by Date</string>
+    <string name="recommand_popular_title">by Popularity</string>
+    <string name="restore_purchase">Restore Purchase</string>
+    <string name="root_not_play">The app cannot run on a rooting device.</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string name="select_update_check">A new version of app is available. Do you want to update now?</string>
+    <string name="share_facebook">Share on Facebook</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="storage_available_error">Download cannot be completed because there isn’t enough storage on your device.</string>
+    <string name="title_facebook_login">Login</string>
+    <string name="title_next_do">Later</string>
+    <string name="title_star_give">Rate</string>
+    <string name="writer_info">Bryan Langdo has been an editor at Little Fox since 2010. He is also an award-winning children\'s book author and illustrator. He loves to create exciting characters and stories and see them come to life. When he\'s not working on stories, he likes to be outside in nature. Bryan lives in New Jersey, in the US, with his wife, two children, and one cat.</string>
+    <string name="writer_text">Auther</string>
+</resources>

@@ -1,0 +1,4 @@
+#Wed Apr 03 13:42:40 KST 2019
+base.0=D\:\\android_studio_workspace\\RocketGirl_Templete\\rocketGirl\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

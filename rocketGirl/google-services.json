@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "242727943664",
+    "firebase_url": "https://littlfox-rocketgirl-88208.firebaseio.com",
+    "project_id": "littlfox-rocketgirl-88208",
+    "storage_bucket": "littlfox-rocketgirl-88208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242727943664:android:ec4dbaa6b365df76",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.rocketgirl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXfF9jZ_XBZNU8qv_1K1OuDgwp-QgNaFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242727943664-igocsd2k3femk9sam2fp498abjrtn4ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

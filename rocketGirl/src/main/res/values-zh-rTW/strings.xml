@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rocket Girl</string>
+    <string name="other_app">其他類似應用程式</string>
+    <string name="input_promotion">輸入活動號碼</string>
+    <string name="menu_writer">關於作者</string>
+    <string name="inquire_developer">聯繫開發者</string>
+    <string name="restore_purchase">找回已購買動畫</string>
+    <string name="promotion_code_title">輸入活動號碼</string>
+    <string name="promotion_hint"/>
+    <string name="promotion_list_title">選擇</string>
+    <string name="menu_star_give">給評價</string>
+    <string name="title_star_give">馬上去評分</string>
+    <string name="title_next_do">下次再分享</string>
+    <!-- Button -->
+    <string name="btn_confirm">確定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_move">是</string>
+    <string name="btn_ignore">否</string>
+    <string name="btn_download_continue">確定</string>
+    <string name="btn_download_cancel">取消</string>
+    <string name="btn_download">下載</string>
+    <string name="btn_later">以後再說</string>
+    <string name="btn_try_again">重試</string>
+    <string name="btn_close">關閉</string>
+    <string name="btn_purchase">購買</string>
+    <string name="btn_replay">重看</string>
+    <string name="btn_next_video">下一個</string>
+    <string name="btn_play_all">連續播放</string>
+    <string name="btn_download_now">立刻下載</string>
+    <string name="btn_more_story">更多系列動畫</string>
+    <string name="parent_confirm">成人身份認證</string>
+    <string name="parent_not_correct_answer">答案錯誤</string>
+    <!-- 네트워크 -->
+    <string name="network_error">網路未連接，請確認狀態。</string>
+    <string name="network_download_error">網路未連接，無法完成下載。</string>
+    <string name="storage_available_error">裝置容量不足，無法完成下載。</string>
+    <string name="lte_3g_relate_question">無法連接到WIFI，可能產生流量費用。確定要繼續下載嗎？</string>
+    <!-- 프로모션 -->
+    <string name="promotion_not_valid">號碼已過期。</string>
+    <string name="promotion_already_used_error">號碼已被使用。</string>
+    <string name="promotion_used_go_download">活動號碼已成功使用。</string>
+    <!-- 상품 구입 -->
+    <string name="product_buy_item_warning">購買完1篇動畫後，以後對整個系列進行購買時，購買價格不會扣去已經購買的單篇動畫價格，確認進行購買嗎？</string>
+    <string name="product_download_one_item_message">1篇動畫購買完畢。開始下載嗎？</string>
+    <string name="product_download_all_item_message">整個系列動畫購買完畢。開始下載嗎？</string>
+    <!-- Introduction -->
+    <string name="introduction_text">Rocket Girl 是一個看上去普通的8歲小女孩，名叫Roxy。具有超能力的Roxy需要一次又一次地面對壞人，守護城市。然而，Roxy 又需要對自己的朋友們保密自己的超人身份。Roxy 真的能夠成功隱藏身份，拯救Metro City嗎？</string>
+    <!-- Intro -->
+    <string name="Intro_text">跳過</string>
+    <!-- Error -->
+    <string name="mac_address_error">無法確定裝置信息，無法實行應用程式。請刪除該應用程式數據后重試。</string>
+    <!-- MESSAGE -->
+    <string name="meesage_is_end">確定關閉應用程式嗎？</string>
+    <!-- Writer -->
+    <string name="writer_text">作者</string>
+    <string name="writer_info">布萊恩·朗多 (Bryan Langdo) 從2010年開始成為Little Fox的編輯之一。他還是一名兒童讀物作家和插畫家，曾經獲得多次獎項。他喜歡創作出令人激動的人物和故事，並且賦予他們生命。不寫故事的時候，他喜歡親近自然。他住在美國，家中有妻子，兩個孩子和一隻貓。</string>
+    <!-- 구매복원 -->
+    <string name="paid_restore_success">成功恢復已購買項目。</string>
+    <string name="paid_restore_fail">無購買記錄。</string>
+    <!-- 루팅기계 방지 -->
+    <string name="root_not_play">在Root過的裝置上無法進行</string>
+    <!-- 앱 버젼 체크 -->
+    <string name="select_update_check">應用程式有新版本，希望下載嗎？</string>
+    <string name="force_update_check">有重要更新，為了正常使用應用程式，請進行更新。</string>
+    <!-- 배경음 과 액션 모드 -->
+    <string name="action_story_mode">動作震動模式</string>
+    <string name="background_music">背景音</string>
+</resources>

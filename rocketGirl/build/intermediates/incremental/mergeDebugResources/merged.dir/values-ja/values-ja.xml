@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Intro_text">スキップ</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="action_story_mode">アクションモード</string>
+    <string name="app_name">Rocket Girl</string>
+    <string name="background_music">BGM</string>
+    <string name="btn_cancel">キャンセル</string>
+    <string name="btn_close">閉じる</string>
+    <string name="btn_confirm">OK</string>
+    <string name="btn_download">はい</string>
+    <string name="btn_download_cancel">いいえ</string>
+    <string name="btn_download_continue">はい</string>
+    <string name="btn_download_now">ダウンロード</string>
+    <string name="btn_ignore">いいえ</string>
+    <string name="btn_later">あとで</string>
+    <string name="btn_more_story">ほかのシリーズへ</string>
+    <string name="btn_move">はい</string>
+    <string name="btn_next_video">次へ</string>
+    <string name="btn_play_all">全話再生</string>
+    <string name="btn_purchase">購入</string>
+    <string name="btn_replay">リプレイ</string>
+    <string name="btn_try_again">再入力</string>
+    <string name="com_facebook_image_download_unknown_error">画像のダウンロード中に予期しないエラーが発生しました。</string>
+    <string name="com_facebook_internet_permission_error_message">WebViewログインにはINTERNET権限が必要です</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifestエラー</string>
+    <string name="com_facebook_like_button_liked">いいね！済み</string>
+    <string name="com_facebook_like_button_not_liked">いいね！</string>
+    <string name="com_facebook_loading">読み込み中...</string>
+    <string name="com_facebook_loginview_cancel_action">キャンセル</string>
+    <string name="com_facebook_loginview_log_in_button">ログイン</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebookでログイン</string>
+    <string name="com_facebook_loginview_log_out_action">ログアウト</string>
+    <string name="com_facebook_loginview_log_out_button">ログアウト</string>
+    <string name="com_facebook_loginview_logged_in_as">次のユーザーとしてログイン中: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebookを使用してログイン中</string>
+    <string name="com_facebook_send_button_text">送信</string>
+    <string name="com_facebook_share_button_text">シェア</string>
+    <string name="com_facebook_tooltip_default">新機能！アプリと共有する情報をコントロールできます。</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"有効にする"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行には、Google Play開発者サービスの有効化が必要です。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play開発者サービスの有効化"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"インストール"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」の実行には Google Play 開発者サービスが必要ですが、お使いの端末にはインストールされていません。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play開発者サービスの入手"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play 開発者サービスの利用"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play開発者サービスのエラー"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」の実行には Google Play 開発者サービスが必要ですが、お使いの端末ではサポートされていません。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスの更新が必要です。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play開発者サービスの更新"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"スマートフォンで開く"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ログイン"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Googleにログイン"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"その他"</string>
+    <string name="force_update_check">重要なアップデートがあります。アプリを正常にご利用いただくために最新版にアップデートしてください。</string>
+    <string name="input_promotion">プロモーションコード</string>
+    <string name="inquire_developer">お問い合わせ</string>
+    <string name="introduction_text">主人公の女の子ロキシーはロケットガールとしてメトロシティの平和を守るヒーローなのです。授業中や休み時間でもロケットガールをよび出す腕時計が鳴ると、すぐにロケットガールに変身して飛んでいきます！スーパーパワーで町と市民の安全を守るロケットガールの物語です。</string>
+    <string name="lte_3g_relate_question">Wi-Fiに接続されていないため、ご利用のデータ通信プランに応じて追加料金がかかります。このままダウンロードしますか？</string>
+    <string name="mac_address_error">アプリの実行に必要な機器情報を読み込めませんでした。アプリケーションデータを削除して再実行してください。</string>
+    <string name="meesage_is_end">アプリを終了しますか？</string>
+    <string name="menu_star_give">アプリを評価</string>
+    <string name="menu_writer">作者紹介</string>
+    <string name="messenger_send_button_text">送信</string>
+    <string name="network_download_error">ネットワークに接続されていないため、ダウンロードできません。</string>
+    <string name="network_error">ネットワークに接続されていません。\nネットワーク環境を確認してください。</string>
+    <string name="other_app">Little Foxのほかのアプリ</string>
+    <string name="paid_restore_fail">購入情報がありません。</string>
+    <string name="paid_restore_success">購入情報を復元しました。</string>
+    <string name="parent_confirm">保護者認証</string>
+    <string name="parent_not_correct_answer">答えが正くありません。</string>
+    <string name="product_already_paid">すでに購入済みです。</string>
+    <string name="product_buy_item_warning">のちにシリーズ全話を一括購入されても、購入済みの単話の価格の差し引きはできません。\nこのまま購入しますか？</string>
+    <string name="product_download_all_item_message">シリーズ全話を購入しました。すべてダウンロードしますか？</string>
+    <string name="product_download_one_item_message">単話を購入しました。 ダウンロードしますか？</string>
+    <string name="product_is_null">アプリ内での購入は許可されていません。</string>
+    <string name="promotion_already_used_error">すでに利用したコードです。</string>
+    <string name="promotion_choice_item">童話を選択してください。</string>
+    <string name="promotion_code_error">クーポン番号が正しくありません。\nもう一度入力してください</string>
+    <string name="promotion_code_title">クーポン番号入力</string>
+    <string name="promotion_hint"/>
+    <string name="promotion_list_title">選択</string>
+    <string name="promotion_not_valid">有効期限が過ぎています。</string>
+    <string name="promotion_used_go_download">クーポンを適用しました。</string>
+    <string name="recommand_main_title">おすすめ</string>
+    <string name="recommand_name_title">タイトル順</string>
+    <string name="recommand_newest_title">新作順</string>
+    <string name="recommand_popular_title">人気順</string>
+    <string name="restore_purchase">購入済み童話を復元</string>
+    <string name="root_not_play">Root化された端末では実行できません。</string>
+    <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
+    <string name="select_update_check">新しいバージョンがあります。アップデートしますか？</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_available_error">内部メモリの空き容量が不足しているため、ダウンロードできません。</string>
+    <string name="title_next_do">あとで</string>
+    <string name="title_star_give">今すぐ評価する</string>
+    <string name="writer_info">絵本作家でイラストレーターのブライアン・ランドゥー（Bryan Langdo）は、2010年よりLittle Foxの童話作家として数々の作品を手がけています。元気いっぱいのキャラクターや読者をワクワクさせる物語が彼の作品の特徴です。作家活動をしていない時期は、自然の中で過ごすことが大好き。受賞歴多数。ニュージャージー州在住。妻・こども2人・ねこ1匹の6人家族。</string>
+    <string name="writer_text">作者</string>
+</resources>

@@ -1,0 +1,39 @@
+<!-- ?xml version="1.0" encoding="utf-8"? -->
+<resources>
+    <string-array name="peopleArray">
+        <item>Roxy</item>
+        <item>Terrell</item>
+        <item>Jack</item>
+        <item>Mara</item>
+        <item>Detective Smith</item>
+        <item>Mayor Bloom</item>
+    </string-array>
+    <string-array name="idArray">
+        <item>@drawable/character01</item>
+        <item>@drawable/character02</item>
+        <item>@drawable/character03</item>
+        <item>@drawable/character04</item>
+        <item>@drawable/character05</item>
+        <item>@drawable/character06</item>
+    </string-array>
+    
+    <string-array name="prefs_volume_names">
+        <item>HDMI Out</item>
+        <item>Media Stream</item>
+    </string-array>
+    <string-array name="prefs_termination_policy_names">
+        <item>Continue application on TV</item>
+        <item>Stop application on TV</item>
+    </string-array>
+
+    <!-- Do not translate below this line -->
+    <string-array name="prefs_volume_values">
+        <item>device</item>
+        <item>stream</item>
+    </string-array>
+    <string-array name="prefs_termination_policy_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+</resources>

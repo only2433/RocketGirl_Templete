@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Intro_text">건너뛰기</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"홈 탐색"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"위로 탐색"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"옵션 더보기"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"완료"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"전체 보기"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"앱 선택"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"사용 안함"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"사용"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"검색..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"검색어 삭제"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"검색어"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"검색"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"검색어 보내기"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"음성 검색"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>와(과) 공유"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
+    <string name="action_story_mode">액션 스토리 모드</string>
+    <string name="app_name">Rocket Girl</string>
+    <string name="background_music">배경음</string>
+    <string name="btn_cancel">취소</string>
+    <string name="btn_close">닫기</string>
+    <string name="btn_confirm">확인</string>
+    <string name="btn_download">다운로드</string>
+    <string name="btn_download_cancel">취소</string>
+    <string name="btn_download_continue">계속</string>
+    <string name="btn_download_now">지금 다운로드</string>
+    <string name="btn_ignore">무시</string>
+    <string name="btn_later">나중에</string>
+    <string name="btn_more_story">다른 동화 더보기</string>
+    <string name="btn_move">이동</string>
+    <string name="btn_next_video">다음편 보기</string>
+    <string name="btn_play_all">남은편 모두 보기</string>
+    <string name="btn_purchase">구입하기</string>
+    <string name="btn_replay">다시보기</string>
+    <string name="btn_try_again">재시도</string>
+    <string name="com_facebook_image_download_unknown_error">이미지를 다운로드하는 중 예기치 않은 오류가 발생했습니다.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView에 로그인하려면 인터넷 권한이 필요합니다</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest 오류</string>
+    <string name="com_facebook_like_button_liked">좋아요</string>
+    <string name="com_facebook_like_button_not_liked">좋아요</string>
+    <string name="com_facebook_loading">읽어들이는 중...</string>
+    <string name="com_facebook_loginview_cancel_action">취소</string>
+    <string name="com_facebook_loginview_log_in_button">로그인</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebook으로 로그인</string>
+    <string name="com_facebook_loginview_log_out_action">로그아웃</string>
+    <string name="com_facebook_loginview_log_out_button">로그아웃</string>
+    <string name="com_facebook_loginview_logged_in_as">로그인할 이름: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebook 계정으로 로그인함</string>
+    <string name="com_facebook_send_button_text">보내기</string>
+    <string name="com_facebook_share_button_text">공유하기</string>
+    <string name="com_facebook_tooltip_default">새로운 기능! 이제 앱과 어떤 정보를 공유할지 자유롭게 선택할 수 있습니다.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"사용 설정"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play 서비스를 사용하도록 설정해야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 작동합니다."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play 서비스 사용"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"설치"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"기기에 Google Play 서비스가 설치되어 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play 서비스 설치"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play 서비스 사용 가능 여부"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play 서비스 오류"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"업데이트"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play 서비스를 업데이트해야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play 서비스 업데이트"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"현재 업데이트 중인 Google Play 서비스가 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"스마트폰에서 열기"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"로그인"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google 계정으로 로그인"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"기타"</string>
+    <string name="force_update_check">중요 업데이트가 있습니다. 원활한 앱 이용을 위해서는 반드시 업데이트 해야 합니다.</string>
+    <string name="input_promotion">쿠폰 입력</string>
+    <string name="inquire_developer">개발자에게 문의</string>
+    <string name="introduction_text">Rocket Girl은 평범해 보이는 8살 소녀 록시의 이야기입니다. 록시는 악당들이 출몰하면 초능력을 가진 로켓걸로 변신하여 도시를 지키기 위해 악당들과 맞섭니다. 하지만 록시는 자신이 로켓걸이라는 사실을 친구들로부터 숨겨야 하죠. 과연 록시는 자신의 비밀을 지키고 위험에 빠진 메트로 시티도 구할 수 있을까요?</string>
+    <string name="lte_3g_relate_question">WIFI에 연결되지 않아 데이터 사용료가 \n발생할 수 있습니다. \n다운로드를 계속 진행하시겠습니까?</string>
+    <string name="mac_address_error">기기 정보를 가져오지 못해 앱 실행이 불가능합니다. 데이터를 삭제 후 다시 실행하여 주세요.</string>
+    <string name="meesage_is_end">앱을 종료하시겠습니까?</string>
+    <string name="menu_star_give">별점 주기</string>
+    <string name="menu_writer">작가 소개</string>
+    <string name="messenger_send_button_text">보내기</string>
+    <string name="network_download_error">네트워크에 연결되지 않아 \n다운로드 할 수 없습니다.</string>
+    <string name="network_error">네트워크에 접속되어 있지 않습니다.\n 네트워크 상태를 확인해 주세요.</string>
+    <string name="other_app">다른 앱 보기</string>
+    <string name="paid_restore_fail">구매 기록이 없습니다.</string>
+    <string name="paid_restore_success">구매 내역이 복원되었습니다.</string>
+    <string name="parent_confirm">부모님 확인</string>
+    <string name="parent_not_correct_answer">올바른 답이 아닙니다.</string>
+    <string name="product_already_paid">이미 결제된 상품입니다. </string>
+    <string name="product_buy_item_warning">한편 구입 후, 전체 상품을 구입하더라도 이전에 구입한 금액은 차감되지 않습니다.구입을 계속 진행하시겠습니까?</string>
+    <string name="product_download_all_item_message">전체 상품 결제가 완료되었습니다.모든 동화를 다운로드 받으시겠습니까?</string>
+    <string name="product_download_one_item_message">한편 상품 결제가 완료되었습니다.동화를 다운로드 받으시겠습니까?</string>
+    <string name="product_is_null">앱 내 결제가 비활성화 되어 상품 구입이 불가능 합니다.</string>
+    <string name="promotion_already_used_error">이미 사용된 쿠폰입니다.</string>
+    <string name="promotion_choice_item">쿠폰을 적용할 동화를 선택해주세요.</string>
+    <string name="promotion_code_error">잘못된 쿠폰 번호입니다.확인 후 다시 입력해주세요.</string>
+    <string name="promotion_code_title">쿠폰 입력</string>
+    <string name="promotion_hint"/>
+    <string name="promotion_list_title">동화 선택</string>
+    <string name="promotion_not_valid">유효기간이 만료된 쿠폰입니다.</string>
+    <string name="promotion_used_go_download">쿠폰이 적용되었습니다.</string>
+    <string name="recommand_main_title">추천 앱 </string>
+    <string name="recommand_name_title">이름순</string>
+    <string name="recommand_newest_title">최신순</string>
+    <string name="recommand_popular_title">인기순</string>
+    <string name="restore_purchase">구매 복원</string>
+    <string name="root_not_play">루팅된 기기에서는 실행할 수 없습니다. </string>
+    <string msgid="146198913615257606" name="search_menu_title">"검색"</string>
+    <string name="select_update_check">새로운 버전이 출시되었습니다.\n지금 최신 버전으로 업데이트 하시겠습니까?</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_available_error">기기 내 용량이 부족하여 다운로드를 할 수 없습니다.</string>
+    <string name="title_next_do">다음에 하기</string>
+    <string name="title_star_give">별점 주기</string>
+    <string name="writer_info">Bryan Langdo는 다양한 수상 경력을 가지고 있는 동화 작가이자 삽화가입니다. 그는 Rocket Girl을 비롯하여 수많은 재미있는 동화들을 제작했으며, 동화 속에서 살아 움직이는듯한 생동감 넘치는 캐릭터를 만들어 내는 일이 아주 즐겁다고 합니다. 시간이 날 때면 가족들과 함께 산과 들로 나가 자연 속에서 새로운 동화를 구상하는 것을 좋아합니다. 2010년부터 리틀팍스에서 작가 및 편집자로 일하고 있으며, 현재 미국 뉴저지에서 아내와 두 자녀, 고양이 한 마리와 살고 있습니다.</string>
+    <string name="writer_text">작가</string>
+</resources>

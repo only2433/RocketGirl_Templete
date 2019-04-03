@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://littlfox-rocketgirl-88208.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">242727943664</string>
+    <string name="google_api_key" translatable="false">AIzaSyCXfF9jZ_XBZNU8qv_1K1OuDgwp-QgNaFw</string>
+    <string name="google_app_id" translatable="false">1:242727943664:android:ec4dbaa6b365df76</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCXfF9jZ_XBZNU8qv_1K1OuDgwp-QgNaFw</string>
+    <string name="google_storage_bucket" translatable="false">littlfox-rocketgirl-88208.appspot.com</string>
+    <string name="project_id" translatable="false">littlfox-rocketgirl-88208</string>
+</resources>
