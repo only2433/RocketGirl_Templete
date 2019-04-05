@@ -364,9 +364,9 @@ public class Mp4PlayerActivity extends BaseActivity implements OnBufferingUpdate
         _PlayButton.setLayoutParams(params);
    
         ScalableLayout topSeekLayout = (ScalableLayout)findViewById(R.id.top_seekbar_layout);
-        RelativeLayout.LayoutParams params1 = (LayoutParams) topSeekLayout.getLayoutParams();
-        params1.topMargin = CommonUtils.getInstance(this).getPixel(100);
-        topSeekLayout.setLayoutParams(params1);
+		params = (LayoutParams) topSeekLayout.getLayoutParams();
+		params.topMargin = CommonUtils.getInstance(this).getPixel(100);
+        topSeekLayout.setLayoutParams(params);
         
         initFont();
         
@@ -418,14 +418,18 @@ public class Mp4PlayerActivity extends BaseActivity implements OnBufferingUpdate
 		_AllPlayButton.setOnClickListener(mButtonClickListener);
 		_PlayerSeekBar 		= (SeekBar) findViewById(R.id.seekbar_play);
 
+		_PlayerSeekBar.setThumbOffset(CommonUtils.getInstance(this).getPixel(0));
+		_PlayerSeekBar.setProgress(0);
+		_PlayerSeekBar.setPadding(0,0,0,0);
+		_PlayerSeekBar.setSecondaryProgress(0);
+		_PlayerSeekBar.setOnSeekBarChangeListener(seekBarChangeListener);
+
 		LayerDrawable layerDrawable = (LayerDrawable)getResources().getDrawable(R.drawable.seekbar_thumb);
 		GradientDrawable rectDrawable = (GradientDrawable)layerDrawable.findDrawableByLayerId(R.id._thumbRect);
 		GradientDrawable circleDrawable = (GradientDrawable)layerDrawable.findDrawableByLayerId(R.id._thumbCircle);
+		rectDrawable.setSize(CommonUtils.getInstance(this).getPixel(60), CommonUtils.getInstance(this).getPixel(60));
+		circleDrawable.setSize(CommonUtils.getInstance(this).getPixel(55), CommonUtils.getInstance(this).getPixel(55));
 
-		rectDrawable.setSize(CommonUtils.getInstance(this).getPixel(65), CommonUtils.getInstance(this).getPixel(65));
-		circleDrawable.setSize(CommonUtils.getInstance(this).getPixel(60), CommonUtils.getInstance(this).getPixel(60));
-
-		_PlayerSeekBar.setOnSeekBarChangeListener(seekBarChangeListener);
 		
 		_CaptionText = (TextView)findViewById(R.id.caption_text);
 		

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.only2433:StorybookTempleteLibrary:1.0.13@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/StorybookTempleteLibrary-1.0.13.aar/2839785e032ebd1e458982b1027a951a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/StorybookTempleteLibrary-1.0.13.aar/2839785e032ebd1e458982b1027a951a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.only2433/StorybookTempleteLibrary/1.0.13/a71e10605223b4413f271aa0f46db4e78feb75f5/StorybookTempleteLibrary-1.0.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

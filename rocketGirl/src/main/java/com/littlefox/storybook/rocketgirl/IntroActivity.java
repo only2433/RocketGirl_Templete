@@ -122,11 +122,11 @@ public class IntroActivity extends BaseActivity
 		Log.init(InformationTemplete.LOG_FILE);
 		CommonUtils.getInstance(this).getWindowInfo();
 		CommonUtils.getInstance(this).showDeviceInfo();
-		initStorybookTempleteInformation();
 		initSetting();
+		initStorybookTempleteInformation();
+
 
 		if(Feature.IS_TABLET_MODE == true && Feature.IS_MINIMUM_SUPPORT_TABLET_RADIO_DISPLAY == true)
-
 		{
 			setContentView(R.layout.intro_main_tablet_not_support_display);
 		}
@@ -212,7 +212,7 @@ public class IntroActivity extends BaseActivity
 						InformationTemplete.ONE_PAY_ITEM_SKU,
 						InformationTemplete.ALL_PAY_ITEM_SKU,
 						InformationTemplete.IN_APP_BILLING_KEY,
-						InformationTemplete.GOOGLE_ANALYTICS_PROPERTY_ID, object);
+						InformationTemplete.GOOGLE_ANALYTICS_PROPERTY_ID, object, Feature.IS_TABLET_MODE);
 	}
 
 	private void initSetting()
