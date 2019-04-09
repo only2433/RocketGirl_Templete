@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-88:12
-INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-88:12
-INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-88:12
-INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-88:12
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-89:12
+INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-89:12
+INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-89:12
+INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-89:12
 MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\88b37adb778aa0f60eaf1dd7efd22102\AndroidManifest.xml:2:1-7:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a93f14b7f8d722eadd62366e5a834b03\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1998431244cc4ad05380857747d9b823\AndroidManifest.xml:17:1-22:12
@@ -29,9 +29,9 @@ MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\only
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\e562e1de94341e08dbaa9b504ff6c6e5\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\03cedbabd80d711efbea53efa9e0ccac\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.only2433:LittlefoxLogMoniter:1.0.4] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxLogMoniter-1.0.4.aar\7d08e82ed702659fb1229af793cb4acd\AndroidManifest.xml:2:1-22:12
-MERGED from [com.github.only2433:LittlefoxSystemLibrary:1.0.7] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxSystemLibrary-1.0.7.aar\8e43d714ab4a56a178ec3d1173c6584a\AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.13.aar\9230a50e8f1b3d316d58a8d134016c73\AndroidManifest.xml:2:1-20:12
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:2:1-22:12
+MERGED from [com.github.only2433:LittlefoxSystemLibrary:1.0.9] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxSystemLibrary-1.0.9.aar\288dcd428c640c7a9b50c4bc08c7a78a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.14] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.14.aar\f830a6a69033aee06bcc5341e09bd89d\AndroidManifest.xml:2:1-20:12
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:2:1-22:12
 MERGED from [com.ssomai:android.scalablelayout:2.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\android.scalablelayout-2.1.1.aar\e594605b2fd2d1ab28b27182b990dc99\AndroidManifest.xml:2:1-13:12
 MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\a0e38d5bea2a3f70361dffc071028b74\AndroidManifest.xml:2:1-12:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3c82c6ec20d279df40964ac2666826cc\AndroidManifest.xml:17:1-22:12
@@ -63,20 +63,20 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\only340\.gradle\c
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a9a1f764bd4f3a9288fe07b730626f75\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bbbf8e7c07395ee08a9d49358b16c8e1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eefd4c91a32a3cbea01a93cfb1685b1b\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-88:12
-INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-88:12
-INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-88:12
+INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-89:12
+INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-89:12
+INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-89:12
 	package
 		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:2:5-49
 		INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml
 		INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-88:12
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-89:12
 		INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-88:12
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:1-89:12
 		INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:1:11-69
@@ -86,14 +86,14 @@ ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\A
 		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:4:22-63
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:5:5-80
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:14:5-80
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:14:5-80
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:14:5-80
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:14:5-80
 	android:name
 		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:5:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:6:5-81
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:16:5-81
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:16:5-81
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:16:5-81
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:16:5-81
 	android:name
 		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:6:22-78
 uses-permission#com.android.vending.BILLING
@@ -112,8 +112,8 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\a261319ad7e4d3539c8b09850f842388\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\c2dbf7418fe6d0fede21d8ee605c0cc3\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\c2dbf7418fe6d0fede21d8ee605c0cc3\AndroidManifest.xml:23:5-67
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:13:5-67
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:13:5-67
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:13:5-67
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:13:5-67
 	android:name
 		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.WAKE_LOCK
@@ -128,8 +128,8 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\a261319ad7e4d3539c8b09850f842388\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\c2dbf7418fe6d0fede21d8ee605c0cc3\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\c2dbf7418fe6d0fede21d8ee605c0cc3\AndroidManifest.xml:25:5-68
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:15:5-68
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:15:5-68
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:15:5-68
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:15:5-68
 	android:name
 		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:16:22-65
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
@@ -142,8 +142,8 @@ ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\A
 		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:18:22-73
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:19:5-76
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:12:5-76
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:12:5-76
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:12:5-76
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:12:5-76
 	android:name
 		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:19:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
@@ -158,12 +158,12 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\a261319ad7e4d3539c8b09850f842388\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\c2dbf7418fe6d0fede21d8ee605c0cc3\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\c2dbf7418fe6d0fede21d8ee605c0cc3\AndroidManifest.xml:24:5-79
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:11:5-79
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:11:5-79
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:11:5-79
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:21:22-76
 application
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:24:5-86:19
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:24:5-87:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a93f14b7f8d722eadd62366e5a834b03\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\a93f14b7f8d722eadd62366e5a834b03\AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:4.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.4.0.aar\e79380de2d13dff343df9593a084198d\AndroidManifest.xml:28:5-20
@@ -206,8 +206,8 @@ MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\only
 MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\1b8998247a8ece4c4ef7d83a9098b1da\AndroidManifest.xml:22:5-26:19
 MERGED from [com.github.only2433:LittlefoxLogMoniter:1.0.4] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxLogMoniter-1.0.4.aar\7d08e82ed702659fb1229af793cb4acd\AndroidManifest.xml:13:5-20:19
 MERGED from [com.github.only2433:LittlefoxLogMoniter:1.0.4] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxLogMoniter-1.0.4.aar\7d08e82ed702659fb1229af793cb4acd\AndroidManifest.xml:13:5-20:19
-MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.13.aar\9230a50e8f1b3d316d58a8d134016c73\AndroidManifest.xml:11:5-18:19
-MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.13.aar\9230a50e8f1b3d316d58a8d134016c73\AndroidManifest.xml:11:5-18:19
+MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.14] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.14.aar\f830a6a69033aee06bcc5341e09bd89d\AndroidManifest.xml:11:5-18:19
+MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.14] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.14.aar\f830a6a69033aee06bcc5341e09bd89d\AndroidManifest.xml:11:5-18:19
 MERGED from [com.ssomai:android.scalablelayout:2.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\android.scalablelayout-2.1.1.aar\e594605b2fd2d1ab28b27182b990dc99\AndroidManifest.xml:11:5-47
 MERGED from [com.ssomai:android.scalablelayout:2.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\android.scalablelayout-2.1.1.aar\e594605b2fd2d1ab28b27182b990dc99\AndroidManifest.xml:11:5-47
 MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\a0e38d5bea2a3f70361dffc071028b74\AndroidManifest.xml:10:5-20
@@ -238,100 +238,102 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\only340\.gradl
 		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:26:9-35
 	android:theme
 		ADDED from [com.github.only2433:LittlefoxLogMoniter:1.0.4] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxLogMoniter-1.0.4.aar\7d08e82ed702659fb1229af793cb4acd\AndroidManifest.xml:19:9-40
+	android:networkSecurityConfig
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:31:9-69
 	android:name
 		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:25:9-74
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:33:9-35:54
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:34:9-36:54
 	android:value
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:35:13-52
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:36:13-52
 	android:name
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:34:13-58
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:35:13-58
 meta-data#android.max_aspect
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:36:9-37:68
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:37:9-38:68
 	android:value
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:37:47-66
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:38:47-66
 	android:name
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:37:13-46
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:38:13-46
 activity#com.littlefox.storybook.rocketgirl.IntroActivity
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:38:9-59:20
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:39:9-60:20
 	android:screenOrientation
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:42:13-50
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:43:13-50
 	android:label
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:41:13-45
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:42:13-45
 	android:configChanges
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:40:13-74
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:41:13-74
 	android:theme
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:43:13-80
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:44:13-80
 	android:name
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:39:13-76
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:40:13-76
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:44:13-48:29
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:45:13-49:29
 action#android.intent.action.MAIN
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:45:17-69
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:46:17-69
 	android:name
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:45:25-66
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:46:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:47:17-77
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:48:17-77
 	android:name
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:47:27-74
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:48:27-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:rocketgirl+data:scheme:coupon
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:49:13-58:29
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:50:13-59:29
 action#android.intent.action.VIEW
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:50:17-69
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:51:17-69
 	android:name
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:50:25-66
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:51:25-66
 category#android.intent.category.DEFAULT
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:52:17-76
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:53:17-76
 	android:name
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:52:27-73
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:53:27-73
 category#android.intent.category.BROWSABLE
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:53:17-78
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:54:17-78
 	android:name
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:53:27-75
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:54:27-75
 data
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:55:17-57:47
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:56:17-58:47
 	android:host
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:56:21-46
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:57:21-46
 	android:scheme
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:57:21-44
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:58:21-44
 activity#com.littlefox.storybook.rocketgirl.Mp4PlayerActivity
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:61:9-67:20
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:62:9-68:20
 	android:screenOrientation
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:65:13-50
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:66:13-50
 	android:label
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:64:13-45
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:65:13-45
 	android:configChanges
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:63:13-74
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:64:13-74
 	android:theme
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:66:13-80
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:67:13-80
 	android:name
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:62:13-80
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:63:13-80
 activity#com.littlefox.storybook.rocketgirl.MainListActivity
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:69:10-75:20
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:70:10-76:20
 	android:screenOrientation
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:73:13-50
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:74:13-50
 	android:label
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:72:13-45
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:73:13-45
 	android:configChanges
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:71:13-74
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:72:13-74
 	android:theme
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:74:13-80
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:75:13-80
 	android:name
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:70:13-79
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:71:13-79
 service#com.littlefox.storybook.fcm.LittlefoxFirebaseMessagingService
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:77:9-84:19
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:78:9-85:19
 	android:enabled
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:79:13-35
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:80:13-35
 	android:exported
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:80:13-36
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:81:13-36
 	android:name
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:78:13-89
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:79:13-89
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:81:13-83:29
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:82:13-84:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:82:17-78
+ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:83:17-78
 	android:name
-		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:82:25-75
+		ADDED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml:83:25-75
 uses-sdk
 INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\android_studio_workspace\RocketGirl_Templete\rocketGirl\src\main\AndroidManifest.xml
@@ -386,12 +388,12 @@ MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\only340\.gradl
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\03cedbabd80d711efbea53efa9e0ccac\AndroidManifest.xml:20:5-44
 MERGED from [com.github.only2433:LittlefoxLogMoniter:1.0.4] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxLogMoniter-1.0.4.aar\7d08e82ed702659fb1229af793cb4acd\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.only2433:LittlefoxLogMoniter:1.0.4] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxLogMoniter-1.0.4.aar\7d08e82ed702659fb1229af793cb4acd\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.only2433:LittlefoxSystemLibrary:1.0.7] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxSystemLibrary-1.0.7.aar\8e43d714ab4a56a178ec3d1173c6584a\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.only2433:LittlefoxSystemLibrary:1.0.7] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxSystemLibrary-1.0.7.aar\8e43d714ab4a56a178ec3d1173c6584a\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.13.aar\9230a50e8f1b3d316d58a8d134016c73\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.13.aar\9230a50e8f1b3d316d58a8d134016c73\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.13] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.13.aar\2839785e032ebd1e458982b1027a951a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.only2433:LittlefoxSystemLibrary:1.0.9] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxSystemLibrary-1.0.9.aar\288dcd428c640c7a9b50c4bc08c7a78a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.only2433:LittlefoxSystemLibrary:1.0.9] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxSystemLibrary-1.0.9.aar\288dcd428c640c7a9b50c4bc08c7a78a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.14] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.14.aar\f830a6a69033aee06bcc5341e09bd89d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.14] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.14.aar\f830a6a69033aee06bcc5341e09bd89d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.16] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.16.aar\b5d557bd40945e328039350fa1cfdb66\AndroidManifest.xml:7:5-9:41
 MERGED from [com.ssomai:android.scalablelayout:2.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\android.scalablelayout-2.1.1.aar\e594605b2fd2d1ab28b27182b990dc99\AndroidManifest.xml:7:5-9:41
 MERGED from [com.ssomai:android.scalablelayout:2.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\android.scalablelayout-2.1.1.aar\e594605b2fd2d1ab28b27182b990dc99\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\a0e38d5bea2a3f70361dffc071028b74\AndroidManifest.xml:6:5-8:41

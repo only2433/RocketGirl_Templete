@@ -213,6 +213,15 @@ public class IntroActivity extends BaseActivity
 						InformationTemplete.ALL_PAY_ITEM_SKU,
 						InformationTemplete.IN_APP_BILLING_KEY,
 						InformationTemplete.GOOGLE_ANALYTICS_PROPERTY_ID, object, Feature.IS_TABLET_MODE);
+
+		if(InformationTemplete.IS_VIBRATOR_TEST)
+		{
+			StorybookTempleteAPI.PATH_VIBRATOR_ROOT = StorybookTempleteAPI.PATH_EXTERNAL_VIBRATOR_ROOT;
+		}
+		else
+		{
+			StorybookTempleteAPI.PATH_VIBRATOR_ROOT = StorybookTempleteAPI.PATH_APP_ROOT;
+		}
 	}
 
 	private void initSetting()
@@ -229,15 +238,6 @@ public class IntroActivity extends BaseActivity
 		{
 			Log.f("16 : 9 비율 ");
 			Feature.IS_MINIMUM_SUPPORT_TABLET_RADIO_DISPLAY = false;
-		}
-
-		if(InformationTemplete.IS_VIBRATOR_TEST)
-		{
-			StorybookTempleteAPI.PATH_VIBRATOR_ROOT = StorybookTempleteAPI.PATH_EXTERNAL_VIBRATOR_ROOT;
-		}
-		else
-		{
-			StorybookTempleteAPI.PATH_VIBRATOR_ROOT = StorybookTempleteAPI.PATH_APP_ROOT;
 		}
 	}
 

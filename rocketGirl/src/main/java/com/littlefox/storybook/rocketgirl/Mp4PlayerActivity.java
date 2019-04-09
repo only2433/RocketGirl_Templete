@@ -437,14 +437,7 @@ public class Mp4PlayerActivity extends BaseActivity implements OnBufferingUpdate
 		
 		initCaptionScaleSize();
 		mVibrator = (Vibrator)getSystemService(Context.VIBRATOR_SERVICE);
-		try
-		{
-			Log.f("vibrator list Size : "+ mVibratorObject.vibrator_list.size());
-		}catch(Exception e)
-		{
-			e.printStackTrace();
-			Log.f("Error : "+e.getMessage());
-		}
+
 		setupVibratorInformation();
 		settingVideoBaseInformation();
 		

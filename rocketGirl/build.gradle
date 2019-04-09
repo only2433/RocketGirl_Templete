@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'com.github.dcendents.android-maven'
 
 android {
     compileSdkVersion 28
@@ -10,11 +11,7 @@ android {
         targetSdkVersion 28
         versionCode 24
         versionName "1.2.2"
-
-        compileOptions {
-            sourceCompatibility JavaVersion.VERSION_1_7
-            targetCompatibility JavaVersion.VERSION_1_7
-        }
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
 
     buildTypes {
@@ -22,6 +19,13 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
     }
 }
 
@@ -56,14 +60,19 @@ dependencies {
     implementation 'com.google.firebase:firebase-core:16.0.8'
 
     implementation 'com.github.only2433:LittlefoxLogMoniter:1.0.4'
-    implementation 'com.github.only2433:LittlefoxSystemLibrary:1.0.7'
-    implementation 'com.github.only2433:LittlefoxViewLibrary:1.0.13'
-    implementation 'com.github.only2433:StorybookTempleteLibrary:1.0.13'
+    implementation 'com.github.only2433:LittlefoxSystemLibrary:1.0.9'
+    implementation 'com.github.only2433:LittlefoxViewLibrary:1.0.14'
+    implementation 'com.github.only2433:StorybookTempleteLibrary:1.0.16'
     implementation 'com.ssomai:android.scalablelayout:2.1.1'
     implementation 'com.github.bumptech.glide:glide:4.8.0'
 
     implementation 'com.facebook.android:facebook-android-sdk:4.4.0'
 
 }
+
+repositories {
+    mavenCentral()
+}
+
 
 apply plugin: 'com.google.gms.google-services'
