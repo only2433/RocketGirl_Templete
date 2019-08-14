@@ -118,7 +118,6 @@ public class IntroActivity extends BaseActivity
 	{
 		super.onCreate(savedInstanceState);
 
-
 		Log.init(InformationTemplete.LOG_FILE);
 		CommonUtils.getInstance(this).getWindowInfo();
 		CommonUtils.getInstance(this).showDeviceInfo();
@@ -383,6 +382,7 @@ public class IntroActivity extends BaseActivity
 
 	private void startThumbnailDownload(int downloadItemIndex)
 	{
+
 		int thumbnailIndex = downloadItemIndex + 1;
 		ReturnIndexDownloadAsync returnIndexDownloadAsync = new ReturnIndexDownloadAsync(this,
 				mVideoBase.getVideoInfoList().get(downloadItemIndex).getDownloadThumbnailUrl(),
@@ -612,7 +612,7 @@ public class IntroActivity extends BaseActivity
 				Log.f("Video Init Response Complete");
 				mInitItemResult = (InitItemResult) object;
 
-				checkThumbnailDownloadComplete();
+				checkBannerThumbnailDownloadComplete();
 
 				if(isExcuteDownloadVibratorFile(Integer.valueOf(mInitItemResult.vibrator.version)) == true)
 				{
@@ -621,7 +621,6 @@ public class IntroActivity extends BaseActivity
 				}
 				else
 				{
-
 					mMainHandler.sendEmptyMessage(MESSAGE_VIDEO_INFO);
 				}
 
@@ -636,7 +635,7 @@ public class IntroActivity extends BaseActivity
 		}
 	}
 
-	private void checkThumbnailDownloadComplete()
+	private void checkBannerThumbnailDownloadComplete()
 	{
 		InitItemResult initItemResult = (InitItemResult) CommonUtils.getInstance(this).getPreferenceObject(Common.PARAMS_INIT_INFO, InitItemResult.class);
 
@@ -757,9 +756,7 @@ public class IntroActivity extends BaseActivity
 				videoBase.getVideoInfoList().get(i).setFreeItem(true);
 			}
 		}
-
 		CommonUtils.getInstance(this).setSharedPreference(Common.PARAMS_FREE_ITEM_COUNT, freeMovieCount);
-
 		return videoBase;
 	}
 
@@ -778,16 +775,13 @@ public class IntroActivity extends BaseActivity
 			{
 				mVideoBase = makeVideoBase(object);
 			}
-
-
 		}
 		catch (Exception e)
 		{
 			Log.f("Error : " + e.getMessage());
 		}
 
-
-		FileUtils.writeFile(mVideoBase, StorybookTempleteAPI.PATH_VIDEO_INFORMATION_ROOT+Common.FILE_NEW_VIDEO_INFORMATION);
+		FileUtils.writeFile(mVideoBase, StorybookTempleteAPI.PATH_VIDEO_INFORMATION_ROOT + Common.FILE_NEW_VIDEO_INFORMATION);
 	}
 
 	private void startMainActivity()
@@ -830,6 +824,7 @@ public class IntroActivity extends BaseActivity
 		public void onRunningEnd(Object mObject)
 		{
 			Log.f("onRunningEnd : " + (int) mObject);
+
 			if((int) mObject != -1)
 			{
 				mChangeThumbnailIndexList.remove(mObject);

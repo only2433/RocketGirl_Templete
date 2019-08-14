@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.littlefox.storybook.rocketgirl"
-    android:versionCode="24"
-    android:versionName="1.2.2" >
+    android:versionCode="25"
+    android:versionName="1.2.3" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -45,6 +45,7 @@
         android:networkSecurityConfig="@xml/network_security_config"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
